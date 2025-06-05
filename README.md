@@ -2,7 +2,7 @@
 🎓 Final Year CSE Student | 📝 Data Analyst  | 📊 SQL & Excel Enthusiast | 💻 Software Developer | 🔍 Problem Solver |
 
 ---
-I am a detail-oriented and highly motivated Computer Science Engineering student with a strong foundation in programming, software development, and system design. With practical experience in C++, Java, IoT, SQL, and Python, I have developed several innovative projects ranging from smart home automation to secure RFID-based systems. I'm passionate about learning, problem-solving, and working in collaborative environments to build impactful technology.
+I am a detail-oriented and highly motivated Computer Science Engineering student with a strong foundation in programming, software development, and system design. With practical experience in C/C++, Java, SQL and Python(basics). I have developed some innovative projects. I'm passionate about learning, problem-solving, and working in collaborative environments to build impactful technology.
 
 ---
 
